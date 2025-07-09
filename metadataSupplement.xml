@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_US" dataSources="ds20" resourceIdentifier="'cas-shared-default','Public','LOAN_REQUESTS_AND_FINANCIALRATIOS','en_US'" tableModifiedTimeStamp="2025-07-09T05:56:34.571Z">
+            <columns>
+                <column dataType="string" label="Loan Request ID" xref="Loan Request ID"/>
+                <column dataType="string" label="Business Name" xref="Business Name"/>
+                <column dataType="string" label="Status" xref="Status"/>
+                <column dataType="double" format="BEST12." label="Total Loan Amount Requested (QAR)" xref="Total Loan Amount Requested (QAR)"/>
+                <column dataType="double" format="BEST12." label="Total Loan Amount Approved (QAR)" xref="Total Loan Amount Approved (QAR)"/>
+                <column dataType="string" label="Risk Category" xref="Risk Category"/>
+                <column dataType="double" format="BEST12." label="Average Risk Score" xref="Average Risk Score"/>
+                <column dataType="string" label="Business Sector" xref="Business Sector"/>
+                <column dataType="string" label="Type" xref="Type"/>
+                <column dataType="string" label="Rejection Reason" xref="Rejection Reason"/>
+                <column dataType="double" format="BEST12." label="Short Term Liab./Total Assets" xref="Short Term Liab./Total Assets"/>
+                <column dataType="double" format="BEST12." label="Net Profit Margin" xref="Net Profit Margin"/>
+                <column dataType="double" format="BEST12." label="Equity / Total Liabilities (t-1)" xref="Equity / Total Liabilities (t-1)"/>
+                <column dataType="double" format="BEST12." label="Inventories / Current Assets" xref="Inventories / Current Assets"/>
+                <column dataType="double" format="BEST12." label="Cash Ratio" xref="Cash Ratio"/>
+                <column dataType="double" format="BEST12." label="EBIT / Net Sales" xref="EBIT / Net Sales"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>
